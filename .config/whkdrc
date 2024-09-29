@@ -18,7 +18,8 @@ alt + shift + l         : Start-Process "https://letterboxd.com/RodolfoFranca/";
 alt + shift + m         : Start-Process "https://myanimelist.net/profile/khekou"; Start-Sleep -Seconds 2; (New-Object -ComObject WScript.Shell).AppActivate('Firefox')
 alt + shift + r         : Start-Process "http://127.0.0.1:7878/"; Start-Sleep -Seconds 2; (New-Object -ComObject WScript.Shell).AppActivate('Firefox')
 alt + shift + s         : Start-Process "http://127.0.0.1:8989/"; Start-Sleep -Seconds 2; (New-Object -ComObject WScript.Shell).AppActivate('Firefox')
-
+alt + shift + h         : Start-Process "https://github.com/rodhfr?tab=repositories"; Start-Sleep -Seconds 2; (New-Object -ComObject WScript.Shell).AppActivate('Firefox')
+alt + shift + p         : Start-Process "https://getpocket.com/saves?utm_source=firefox_pocket_save_button"; Start-Sleep -Seconds 2; (New-Object -ComObject WScript.Shell).AppActivate('Firefox')
 
 
 
