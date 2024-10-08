@@ -7,7 +7,7 @@ function Get-MimeType {
     )
     $extension = [System.IO.Path]::GetExtension($FilePath).ToLower()
     switch ($extension) {
-        '.txt' { return 'text/plain' }
+        #'.txt' { return 'text/plain' }
         '.jpg' { return 'image/jpeg' }
         '.jpeg' { return 'image/jpeg' }
         '.png' { return 'image/png' }

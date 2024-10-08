@@ -1,0 +1,15 @@
+2024-10-08 13:17:14 INFO log.py:21: Yasb
+2024-10-08 13:17:14 INFO config.py:58: Created default config file at C:\Users\Rod\.config\yasb\config.yaml
+2024-10-08 13:17:14 INFO config.py:72: Created default stylesheet at C:\Users\Rod\.config\yasb\styles.css
+2024-10-08 13:17:15 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-08 13:17:18 INFO weather.py:156: Fetched new weather data at 2024-10-08 13:17:18.316613
+2024-10-08 13:17:18 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-08 13:17:19 INFO event_listener.py:52: Created named pipe yasb-caa30f23-8590-11ef-86bb-387a0eabc96b
+2024-10-08 13:17:19 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-caa30f23-8590-11ef-86bb-387a0eabc96b
+2024-10-08 13:17:19 INFO watcher.py:39: Created file watcher for path C:\Users\Rod\.config\yasb
+2024-10-08 13:17:19 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-08 13:17:19 DEBUG _windows.py:192: Thread started
+2024-10-08 13:17:19 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-caa30f23-8590-11ef-86bb-387a0eabc96b
+2024-10-08 13:27:18 INFO weather.py:156: Fetched new weather data at 2024-10-08 13:27:18.319055
+2024-10-08 13:37:18 INFO weather.py:156: Fetched new weather data at 2024-10-08 13:37:18.311788
+2024-10-08 13:47:18 INFO weather.py:156: Fetched new weather data at 2024-10-08 13:47:18.339278

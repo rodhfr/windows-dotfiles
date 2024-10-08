@@ -12,15 +12,6 @@ alt + e                 : start explorer
 alt + return            : start wt
 # Need to put C:\Users\Rod\Code\Scripts on environment variables windows
 alt + p                 : playpause
-alt + shift + j         : Start-Process "http://localhost:8096"; Start-Sleep -Seconds 2; (New-Object -ComObject WScript.Shell).AppActivate('Firefox')
-alt + shift + g         : Start-Process "https://chatgpt.com/"; Start-Sleep -Seconds 2; (New-Object -ComObject WScript.Shell).AppActivate('Firefox')
-alt + shift + l         : Start-Process "https://letterboxd.com/RodolfoFranca/"; Start-Sleep -Seconds 2; (New-Object -ComObject WScript.Shell).AppActivate('Firefox')
-alt + shift + m         : Start-Process "https://myanimelist.net/profile/khekou"; Start-Sleep -Seconds 2; (New-Object -ComObject WScript.Shell).AppActivate('Firefox')
-alt + shift + r         : Start-Process "http://127.0.0.1:7878/"; Start-Sleep -Seconds 2; (New-Object -ComObject WScript.Shell).AppActivate('Firefox')
-alt + shift + s         : Start-Process "http://127.0.0.1:8989/"; Start-Sleep -Seconds 2; (New-Object -ComObject WScript.Shell).AppActivate('Firefox')
-alt + shift + h         : Start-Process "https://github.com/rodhfr?tab=repositories"; Start-Sleep -Seconds 2; (New-Object -ComObject WScript.Shell).AppActivate('Firefox')
-alt + shift + p         : Start-Process "https://getpocket.com/saves?utm_source=firefox_pocket_save_button"; Start-Sleep -Seconds 2; (New-Object -ComObject WScript.Shell).AppActivate('Firefox')
-
 
 
 alt + q                 : komorebic close
@@ -39,7 +30,7 @@ alt + shift + h         : komorebic move left
 alt + shift + j         : komorebic move down
 alt + shift + k         : komorebic move up
 alt + shift + l         : komorebic move right
-alt + shift + return    : komorebic promote
+shift + return          : komorebic promote
 
 # Stack windows
 #alt + left              : komorebic stack left
@@ -61,7 +52,8 @@ alt + t                 : komorebic toggle-float
 alt + shift + f         : komorebic toggle-monocle
 
 # Window manager options
-alt + shift + r         : komorebic retile
+alt + shift + r         : komorebic stop; komorebic start --whkd
+alt + r                 : komorebic retile
 alt + z                 : komorebic toggle-pause
 
 # Layouts

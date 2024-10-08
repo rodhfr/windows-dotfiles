@@ -28,47 +28,19 @@
       "workspaces": [
         {
           "name": "I",
-          "layout": "BSP",
-          "workspace_rules": [
-            {
-              "kind": "Exe",
-              "id": "powershell.exe"
-            }
-          ]
+          "layout": "BSP"
         },
         {
           "name": "II",
-          "layout": "BSP",
-          "workspace_rules": [
-            {
-              "kind": "Exe",
-              "id": "Code.exe"
-            },
-            {
-              "kind": "Exe",
-              "id": "notepad++.exe"
-            }
-          ]
+          "layout": "BSP"
         },
         {
           "name": "III",
-          "layout": "BSP",
-          "workspace_rules": [
-            {
-              "kind": "Exe",
-              "id": "firefox.exe"
-            }
-          ]
+          "layout": "BSP"
         },
         {
           "name": "IV",
-          "layout": "BSP",
-          "workspace_rules": [
-            {
-              "kind": "Exe",
-              "id": "explorer.exe"
-            }
-          ]
+          "layout": "BSP"
         },
         {
           "name": "V",
