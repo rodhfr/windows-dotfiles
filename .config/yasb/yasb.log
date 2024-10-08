@@ -14,3 +14,135 @@
 2024-10-08 13:37:18 INFO weather.py:156: Fetched new weather data at 2024-10-08 13:37:18.311788
 2024-10-08 13:47:18 INFO weather.py:156: Fetched new weather data at 2024-10-08 13:47:18.339278
 2024-10-08 13:57:18 INFO weather.py:156: Fetched new weather data at 2024-10-08 13:57:18.356393
+2024-10-08 14:07:18 INFO weather.py:156: Fetched new weather data at 2024-10-08 14:07:18.342065
+2024-10-08 14:17:18 INFO weather.py:156: Fetched new weather data at 2024-10-08 14:17:18.377181
+2024-10-08 14:21:53 INFO log.py:21: Yasb
+2024-10-08 14:21:54 INFO weather.py:156: Fetched new weather data at 2024-10-08 14:21:54.815495
+2024-10-08 14:21:54 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-08 14:21:55 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-08 14:21:55 INFO log.py:21: Yasb
+2024-10-08 14:21:56 INFO weather.py:156: Fetched new weather data at 2024-10-08 14:21:56.430830
+2024-10-08 14:21:56 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-08 14:21:56 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-08 14:21:57 INFO event_listener.py:52: Created named pipe yasb-d2567e88-8599-11ef-a23f-387a0eabc96b
+2024-10-08 14:21:57 INFO event_listener.py:52: Created named pipe yasb-d2567e88-8599-11ef-82e5-387a0eabc96b
+2024-10-08 14:21:57 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-d2567e88-8599-11ef-82e5-387a0eabc96b
+2024-10-08 14:21:57 INFO watcher.py:39: Created file watcher for path C:\Users\Rod\.config\yasb
+2024-10-08 14:21:57 INFO watcher.py:39: Created file watcher for path C:\Users\Rod\.config\yasb
+2024-10-08 14:21:57 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-08 14:21:57 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-08 14:21:57 DEBUG _windows.py:192: Thread started
+2024-10-08 14:21:57 DEBUG _windows.py:192: Thread started
+2024-10-08 14:21:57 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-d2567e88-8599-11ef-a23f-387a0eabc96b
+2024-10-08 14:21:57 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-d2567e88-8599-11ef-82e5-387a0eabc96b
+2024-10-08 14:24:57 INFO tray.py:205: Exiting Application from tray...
+2024-10-08 14:24:57 DEBUG _windows.py:218: Stopping worker thread...
+2024-10-08 14:24:57 DEBUG _windows.py:201: Exiting thread
+2024-10-08 14:24:57 DEBUG _windows.py:75: Closing
+2024-10-08 14:24:57 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000019085E1DEF0>. Removing link to WinEvent.EventObjectNameChange.
+2024-10-08 14:25:00 INFO tray.py:160: Created shortcut at C:\Users\Rod\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\yasb.lnk
+2024-10-08 14:25:05 INFO tray.py:201: Reloading Application...
+2024-10-08 14:25:06 INFO log.py:21: Yasb
+2024-10-08 14:25:07 INFO weather.py:156: Fetched new weather data at 2024-10-08 14:25:07.343415
+2024-10-08 14:25:07 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-08 14:25:07 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-08 14:25:07 INFO event_listener.py:52: Created named pipe yasb-43a540ad-859a-11ef-8fde-387a0eabc96b
+2024-10-08 14:25:07 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-43a540ad-859a-11ef-8fde-387a0eabc96b
+2024-10-08 14:25:07 INFO watcher.py:39: Created file watcher for path C:\Users\Rod\.config\yasb
+2024-10-08 14:25:07 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-08 14:25:07 DEBUG _windows.py:192: Thread started
+2024-10-08 14:25:07 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-43a540ad-859a-11ef-8fde-387a0eabc96b
+2024-10-08 14:26:24 INFO tray.py:201: Reloading Application...
+2024-10-08 14:26:25 INFO log.py:21: Yasb
+2024-10-08 14:26:25 INFO weather.py:156: Fetched new weather data at 2024-10-08 14:26:25.684875
+2024-10-08 14:26:25 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-08 14:26:25 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-08 14:26:26 INFO event_listener.py:52: Created named pipe yasb-723da1cd-859a-11ef-ba90-387a0eabc96b
+2024-10-08 14:26:26 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-723da1cd-859a-11ef-ba90-387a0eabc96b
+2024-10-08 14:26:26 INFO watcher.py:39: Created file watcher for path C:\Users\Rod\.config\yasb
+2024-10-08 14:26:26 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-08 14:26:26 DEBUG _windows.py:192: Thread started
+2024-10-08 14:26:26 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-723da1cd-859a-11ef-ba90-387a0eabc96b
+2024-10-08 14:27:10 INFO tray.py:201: Reloading Application...
+2024-10-08 14:27:10 INFO log.py:21: Yasb
+2024-10-08 14:27:10 INFO weather.py:156: Fetched new weather data at 2024-10-08 14:27:10.786033
+2024-10-08 14:27:10 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-08 14:27:10 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-08 14:27:11 INFO event_listener.py:52: Created named pipe yasb-8d20fe3f-859a-11ef-8c28-387a0eabc96b
+2024-10-08 14:27:11 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-8d20fe3f-859a-11ef-8c28-387a0eabc96b
+2024-10-08 14:27:11 INFO watcher.py:39: Created file watcher for path C:\Users\Rod\.config\yasb
+2024-10-08 14:27:11 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-08 14:27:11 DEBUG _windows.py:192: Thread started
+2024-10-08 14:27:11 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-8d20fe3f-859a-11ef-8c28-387a0eabc96b
+2024-10-08 14:27:47 INFO tray.py:201: Reloading Application...
+2024-10-08 14:27:47 INFO log.py:21: Yasb
+2024-10-08 14:27:48 INFO weather.py:156: Fetched new weather data at 2024-10-08 14:27:48.185717
+2024-10-08 14:27:48 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-08 14:27:48 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-08 14:27:48 INFO event_listener.py:52: Created named pipe yasb-a36a961f-859a-11ef-919b-387a0eabc96b
+2024-10-08 14:27:48 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a36a961f-859a-11ef-919b-387a0eabc96b
+2024-10-08 14:27:48 INFO watcher.py:39: Created file watcher for path C:\Users\Rod\.config\yasb
+2024-10-08 14:27:48 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-08 14:27:48 DEBUG _windows.py:192: Thread started
+2024-10-08 14:27:48 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-a36a961f-859a-11ef-919b-387a0eabc96b
+2024-10-08 14:28:06 INFO tray.py:201: Reloading Application...
+2024-10-08 14:28:06 INFO log.py:21: Yasb
+2024-10-08 14:28:07 INFO weather.py:156: Fetched new weather data at 2024-10-08 14:28:07.391116
+2024-10-08 14:28:07 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-08 14:28:07 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-08 14:28:07 INFO event_listener.py:52: Created named pipe yasb-aedd439c-859a-11ef-8758-387a0eabc96b
+2024-10-08 14:28:07 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-aedd439c-859a-11ef-8758-387a0eabc96b
+2024-10-08 14:28:07 INFO watcher.py:39: Created file watcher for path C:\Users\Rod\.config\yasb
+2024-10-08 14:28:07 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-08 14:28:07 DEBUG _windows.py:192: Thread started
+2024-10-08 14:28:07 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-aedd439c-859a-11ef-8758-387a0eabc96b
+2024-10-08 14:28:18 INFO tray.py:201: Reloading Application...
+2024-10-08 14:28:18 INFO log.py:21: Yasb
+2024-10-08 14:28:18 INFO weather.py:156: Fetched new weather data at 2024-10-08 14:28:18.815544
+2024-10-08 14:28:18 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-08 14:28:18 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-08 14:28:19 INFO event_listener.py:52: Created named pipe yasb-b5b0a355-859a-11ef-a27a-387a0eabc96b
+2024-10-08 14:28:19 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-b5b0a355-859a-11ef-a27a-387a0eabc96b
+2024-10-08 14:28:19 INFO watcher.py:39: Created file watcher for path C:\Users\Rod\.config\yasb
+2024-10-08 14:28:19 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-08 14:28:19 DEBUG _windows.py:192: Thread started
+2024-10-08 14:28:19 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-b5b0a355-859a-11ef-a27a-387a0eabc96b
+2024-10-08 14:28:55 INFO tray.py:201: Reloading Application...
+2024-10-08 14:28:55 INFO log.py:21: Yasb
+2024-10-08 14:28:56 INFO weather.py:156: Fetched new weather data at 2024-10-08 14:28:56.038735
+2024-10-08 14:28:56 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-08 14:28:56 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-08 14:28:56 INFO event_listener.py:52: Created named pipe yasb-cbe33c8f-859a-11ef-b1db-387a0eabc96b
+2024-10-08 14:28:56 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-cbe33c8f-859a-11ef-b1db-387a0eabc96b
+2024-10-08 14:28:56 INFO watcher.py:39: Created file watcher for path C:\Users\Rod\.config\yasb
+2024-10-08 14:28:56 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-08 14:28:56 DEBUG _windows.py:192: Thread started
+2024-10-08 14:28:56 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-cbe33c8f-859a-11ef-b1db-387a0eabc96b
+2024-10-08 14:29:18 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:29:23 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:29:27 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:29:34 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:29:37 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:29:39 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:29:41 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:29:43 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:29:49 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:29:52 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:29:58 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:30:01 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:30:05 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:30:07 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:30:10 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:30:12 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:30:14 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:30:17 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:30:20 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:31:07 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:31:09 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:31:11 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:31:12 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:31:14 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:31:17 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:31:20 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:31:23 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-08 14:31:26 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.

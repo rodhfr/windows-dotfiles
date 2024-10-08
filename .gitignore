@@ -42,3 +42,4 @@ rsstt-env/
 sample.json
 scoop/
 .vscode-oss/
+.viminfo
